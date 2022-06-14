@@ -1,0 +1,62 @@
+#review_rankl {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+#review_rankl h4 {
+  width: 430px;
+  font-size: 16px;
+  padding-bottom: 5px;
+  border-bottom: solid 1px #dddddd;
+}
+#review_rankl ul {
+  margin-top: 20px;
+}
+#review_rankl li {
+  margin-top: 8px;
+  margin-left: 4px;
+}
+#review_rankl span {
+  display: inline-block;
+}
+#review_rankl span:nth-child(1) {
+  width: 280px;
+}
+#review_rankl span:nth-child(2) {
+  width: 100px;
+}
+
+#review_rankl span:nth-child(3) {
+  width: 0px;
+}
+
+#review_rankr {
+  position: absolute;
+  top: 30px;
+  left: 500px;
+}
+#review_rankr h4 {
+  width: 500px;
+  font-size: 16px;
+  padding-bottom: 5px;
+  border-bottom: solid 1px #dddddd;
+}
+#review_rankr ul {
+  margin-top: 20px;
+}
+#review_rankr li {
+  margin-top: 8px;
+  margin-left: 10px;
+}
+#review_rankr span {
+  display: inline-block;
+}
+#review_rankr span:nth-child(1) {
+  width: 280px;
+}
+#review_rankr span:nth-child(2) {
+  width: 100px;
+}
+#review_rankr span:nth-child(3) {
+  width: 100px;
+}

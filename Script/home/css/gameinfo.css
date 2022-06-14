@@ -1,0 +1,100 @@
+#game_content {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+#game_image {
+  float: left;
+  margin-right: 20px;
+}
+
+#game_image img {
+  height: 200px;
+  width: 300px;
+}
+
+#game_content #game_content #game_introduce {
+  width: 100%;
+}
+
+#game_introduce {
+  margin-left: 10px;
+}
+
+#game_intro {
+  background-color: beige;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  border: 10px solid;
+  border-color: lightgray;
+}
+
+#game_review {
+  margin-top: 30px;
+  background-color: beige;
+  border: 7px solid;
+  border-color: lightgray;
+}
+
+#review_title {
+  margin: 10px;
+  font-size: 25px;
+}
+
+#review_title a {
+  position: relative;
+  left: 750px;
+}
+
+#game_review #review_ul {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+#game_review #review_li {
+  margin: 10px 0px;
+  border-bottom: 3px solid;
+  border-color: lightgrey;
+  height: 50px;
+}
+
+#review_li span {
+  font-size: 20px;
+}
+
+#review_li span:nth-child(1) {
+  position: absolute;
+  left: 50px;
+  align-content: center;
+}
+
+#review_li span:nth-child(2) {
+  position: absolute;
+  left: 150px;
+  align-content: center;
+}
+
+#review_li span:nth-child(3) {
+  position: absolute;
+  left: 500px;
+  align-content: center;
+}
+
+#review_li span:nth-child(4) {
+  position: absolute;
+  left: 600px;
+  align-content: center;
+}
+
+#review_li #revise_point {
+  position: absolute;
+  left: 700px;
+  align-content: center;
+}
+
+#like {
+  height: 25px;
+  width: 25px;
+}
